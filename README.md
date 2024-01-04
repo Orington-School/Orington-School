@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Orington... but at school
+- 👀 I’m interested in mainy coding cheats for things like Blooket, 1v1.lol, and Shell Shockers
+- 🌱 I’m currently learning python and javascript
+- 📫 You won't have a way to contact me, but I will get a way one day!
